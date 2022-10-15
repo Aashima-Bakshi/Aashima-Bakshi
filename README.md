@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aashima-Bakshi
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React and node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aashimabakshi2@gmail.com
 
 <!---
