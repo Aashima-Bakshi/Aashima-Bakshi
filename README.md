@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aashima-Bakshi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React and node.js
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Power BI
 - 📫 How to reach me aashimabakshi2@gmail.com
 
 <!---
